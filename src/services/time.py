@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+from src.constants.day import Day
+
 
 class Time:
 
